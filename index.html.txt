@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>我的电子名片</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      padding: 50px;
+    }
+    h1 { color: #333; }
+    .card {
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 12px;
+      display: inline-block;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    a:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Johnson</h1>
+    <p>?? 电话: +86 159 16415357</p>
+    <p>?? 邮箱: Johnson.he@owire.com.cn</p>
+    <!-- 保存联系人按钮 -->
+    <a href="contact.vcf" download>?? 保存到通讯录</a>
+  </div>
+</body>
+</html>
