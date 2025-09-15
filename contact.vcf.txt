@@ -3,4 +3,4 @@ VERSION:3.0
 FN:Johnson
 TEL:+86159 16415357
 EMAIL:Johnson.he@owire.com.cn
-END:VCARD
+END:VCAR
