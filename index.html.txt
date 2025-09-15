@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>ÎÒµÄµç×ÓÃûÆ¬</title>
+  <title>æˆ‘çš„ç”µå­åç‰‡</title>
   <style>
     body { 
       font-family: Arial, sans-serif; 
@@ -32,10 +32,10 @@
 <body>
   <div class="card">
     <h1>Johnson</h1>
-    <p>?? µç»°: +86 159 16415357</p>
-    <p>?? ÓÊÏä: Johnson.he@owire.com.cn</p>
-    <!-- ±£´æÁªÏµÈË°´Å¥ -->
-    <a href="contact.vcf" download>?? ±£´æµ½Í¨Ñ¶Â¼</a>
+    <p>?? ç”µè¯: +86 159 16415357</p>
+    <p>?? é‚®ç®±: Johnson.he@owire.com.cn</p>
+    <!-- ä¿å­˜è”ç³»äººæŒ‰é’® -->
+    <a href="contact.vcf" download>?? ä¿å­˜åˆ°é€šè®¯å½•</a>
   </div>
 </body>
 </html>
